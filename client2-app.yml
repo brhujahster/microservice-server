@@ -14,7 +14,7 @@ eureka:
     wait-time-in-ms-when-sync-empty: 3000
 
 authserver:
-  hostname: http://localhost:9092
+  hostname: http://tce027722:9092
 security:
   oauth2:
     resource:
